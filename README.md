@@ -1,4 +1,6 @@
 # css-utils-padding
+[![Build Status](https://travis-ci.org/dcalhoun/css-utils-padding.svg?branch=master)](https://travis-ci.org/dcalhoun/css-utils-padding)
+
 Immutable, CSS padding utilities.
 
 ## Naming Convention
